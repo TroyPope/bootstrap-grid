@@ -42,3 +42,7 @@ main, aside {
     height 200px;
 }
 
+.promo {
+    height: 150px;
+    border: black 1px solid;
+}
